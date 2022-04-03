@@ -1,0 +1,4 @@
+ONGO RESOLUSI
+- Konsisten Belajar golang setiap hari mulai pagi hari
+- Membuat website untuk sistem informasi web Gereja
+- Membuat forum diskusi
