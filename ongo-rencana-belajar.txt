@@ -4,6 +4,7 @@ RENCANA BELAJAR ONGO
   *Struct Slice
    ^ Inisialisasi Slice
    ^ Looping Slice
+   ^ mengirim objek tipe struct
 - BELAJAR INTERFACE
 - BELAJAR METHOD
  ^ Variable milik Struct objek
