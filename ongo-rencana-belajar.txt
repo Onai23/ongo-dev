@@ -2,7 +2,10 @@ RENCANA BELAJAR ONGO
 - BELAJAR STRUCT
   *Struct inisialisasi
   *Struct Slice
+   ^ Inisialisasi Slice
 - BELAJAR INTERFACE
 - BELAJAR METHOD
+ ^ Variable milik Struct objek
 - Vlogs
 - Belajar Struktur Data
+- Belajar Git
