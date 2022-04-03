@@ -3,6 +3,7 @@ RENCANA BELAJAR ONGO
   *Struct inisialisasi
   *Struct Slice
    ^ Inisialisasi Slice
+   ^ Looping Slice
 - BELAJAR INTERFACE
 - BELAJAR METHOD
  ^ Variable milik Struct objek
