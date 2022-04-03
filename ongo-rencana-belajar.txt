@@ -2,6 +2,8 @@ RENCANA BELAJAR ONGO
 - BELAJAR STRUCT
   *Struct inisialisasi
   *Struct Slice
+   ^ cara mengirim objek struct slice 
+   ^ cara mengisi objek struct slice dengan objek struct
 - BELAJAR INTERFACE
 - BELAJAR METHOD
 - Vlogs
