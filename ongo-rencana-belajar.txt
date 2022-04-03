@@ -1,0 +1,7 @@
+RENCANA BELAJAR ONGO
+- BELAJAR STRUCT
+  *Struct inisialisasi
+  *Struct Slice
+- BELAJAR INTERFACE
+- BELAJAR METHOD
+- Vlogs
