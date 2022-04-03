@@ -5,3 +5,4 @@ RENCANA BELAJAR ONGO
 - BELAJAR INTERFACE
 - BELAJAR METHOD
 - Vlogs
+- Belajar Struktur Data
